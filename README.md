@@ -35,4 +35,4 @@ Supported emoticons are:
 
 -_- = 😒
 
-<3 = ❤
+&lt;3 = ❤
