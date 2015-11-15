@@ -4,19 +4,35 @@ Upgrading 'text smileys' like ':)' to the real whatsapp emoticons on whatsapp-we
 Supported emoticons are:
 
 :)  = 😊
+
 ;)  = 😉
+
 :D  = 😀
+
 =D  = 😃
+
 ^_^ = 😄
+
 :P  = 😋
+
 ;P  = 😜
+
 8-) = 😎
+
 :-* = 😘
-(y) = "Like"
+
+(y) = 👍
+
 :(  = 😥
+
 :/  = 😕
+
 :@  = 😡
+
 :O  = 😦
+
 :|  = 😐
+
 -_- = 😒
+
 <3 = ❤
