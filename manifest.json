@@ -1,0 +1,16 @@
+{
+	"manifest_version": 2,
+	"name": "Whatsapp Web Emoticons",
+	"version": "1.0.3",
+	"description": "Upgrading 'text smileys' like ':)' to the real whatsapp emoticons, on whatsapp-web.",
+	"icons": { "16": "Resources/icon16.png",
+           "48": "Resources/icon48.png",
+		   "64": "Resources/icon64.png",
+          "128": "Resources/icon128.png" },
+	"content_scripts":[
+		{
+			"matches": ["https://web.whatsapp.com/*"],
+			"js": ["content_script.js"]
+		}
+	]
+}
