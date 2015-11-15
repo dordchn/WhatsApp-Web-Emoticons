@@ -1,4 +1,4 @@
-# whatsappWebEmoticons
+# WhatsApp Web Emoticons
 
 Upgrading 'text smileys' like ':)' to the real whatsapp emoticons on whatsapp-web.
 
