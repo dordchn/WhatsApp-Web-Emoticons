@@ -7,5 +7,3 @@ Supported emoticons are:
 ![Alt text](icons_big.png?raw=true "Title")
 
 [Available on ChromeStore](https://chrome.google.com/webstore/detail/whatsapp-web-emoticons/lcnahjgfnjefhapkkaggbegjgpkdaeli)
-
-&copy; Created by [dordorcohen](https://github.com/dordorcohen)
